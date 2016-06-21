@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.brand-logo {
+  margin-top: -10px;
+  height: 40px;
+}
+.login-logo {
+  width: 400px;
+}
+#calendar {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+.login {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 20%;
+}
+.login .panel {
+  background-color: #ccc;
+}
+.fc-bg {
+  background-color: #fff;
+}
+.fc-unthemed .fc-today {
+	background: #EAEAEA;
+}
+.fc-time {
+  color: #555;
+}
+.fc-title {
+  font-size: 14px;
+  color: #222;
+}
+.fc-event {
+  background-color: #FED869;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  line-height: 14px;
+  padding: 5px;
+}
+
+.modal-margin {
+	margin-top: 15%;
+}
