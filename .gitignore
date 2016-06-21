@@ -1,0 +1,3 @@
+# Lack und Blech Gitignore
+modules/mysql.php
+.idea/
